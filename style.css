@@ -235,7 +235,9 @@ p {
 }
 
 .photo-placeholder {
-    min-height: 460px;
+    height: 480px;
+    width: 480px;
+    border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
