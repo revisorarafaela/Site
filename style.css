@@ -96,6 +96,12 @@ a {
 
 /* General */
 
+.round-image {
+  width: 460px;
+  height: 460px;
+  border-radius: 50%; 
+  object-fit: cover; 
+}
 .section {
     padding: 100px 0;
 }
