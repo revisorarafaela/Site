@@ -547,7 +547,8 @@ p {
     }
 
     .photo-placeholder {
-        min-height: 320px;
+        height: 320px;
+        width: 320px;
     }
 }
 
@@ -564,6 +565,11 @@ p {
         padding: 24px;
     }
 
+    .photo-placeholder {
+        height: 250px;
+        width: 250px;
+    }
+    
     .language-grid {
         grid-template-columns: 1fr;
         gap: 0;
