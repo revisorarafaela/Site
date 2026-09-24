@@ -550,6 +550,11 @@ p {
         height: 320px;
         width: 320px;
     }
+    
+    .round-image{
+        height: 320px;
+        width: 320px;
+    }
 }
 
 @media (max-width: 520px) {
@@ -566,6 +571,11 @@ p {
     }
 
     .photo-placeholder {
+        height: 250px;
+        width: 250px;
+    }
+    
+    .round-image{
         height: 250px;
         width: 250px;
     }
